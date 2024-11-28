@@ -40,23 +40,23 @@
 - - - -
 
 <p align="left">
-  <a href="https://github.com/Mukhsin0508">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Mukhsin0508&show_icons=true&theme=radical" />
+  <a href="https://github.com/ThompsonShell">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ThompsonShell&show_icons=true&theme=radical" />
   </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mukhsin0508&langs_count=8&layout=compact&theme=vue-dark)](https://github.com/Mukhsin0508)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThompsonShell&langs_count=8&layout=compact&theme=vue-dark)](https://github.com/ThompsonShell)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Mukhsin0508&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Mukhsin's streak" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ThompsonShell&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Thompson's streak" /></p>
 
 
 ## Github Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mukhsin0508&theme=algolia&column=5">
+<img src="https://github-profile-trophy.vercel.app/?username=ThompsonShell&theme=algolia&column=5">
 
 ## Wakatime Stats
 <p>
-  <img src="https://wakatime.com/share/@60731bfe-5801-4003-b6ab-b7db12ed73d0/63d64e1e-6bbc-414f-89a2-aa415884326a.svg" height="320" width="420">
+  <img src="https://wakatime.com/@ThompsonShell" height="320" width="420">
 </p> 
 
 ## Wakatime 
@@ -65,7 +65,7 @@
 </p>
 
 ### 📫 You can reach me here:  
-<a href="https://www.linkedin.com/in/mukhsin-mukhtorov-58b26221b/" target="_blank">
+<a href="https://www.linkedin.com/in/backspace-thompsonshell-0a5b8733a/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/mukhsin.mukhtariy/" target="_blank">
@@ -74,10 +74,10 @@
 <a href="mailto:muxsinmuxtorov01@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/mail-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://leetcode.com/u/Mukhsin/" target="_blank">
+<a href="https://leetcode.com/u/ThompsonShelll/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
 </a>
-<a href="https://x.com/MukhsinMM7" target="_blank">
+<a href="https://x.com/Backspa56553138" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 </a>
 <a href="https://www.hackerrank.com/profile/muxsinmuxtorov01" target="_blank">
