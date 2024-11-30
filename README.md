@@ -68,7 +68,7 @@
 <a href="https://www.linkedin.com/in/backspace-thompsonshell-0a5b8733a/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/mukhsin.mukhtariy/" target="_blank">
+<a href="https://www.instagram.com/th_saturn_/profilecard/?igsh=aHQxbnAxMzFldzF1" target="_blank">
   <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="mailto:muxsinmuxtorov01@gmail.com" target="_blank">
