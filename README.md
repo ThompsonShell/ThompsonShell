@@ -113,3 +113,5 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
 </body>  
+![ThompsonShell's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThompsonShell&show_icons=true&theme=dark)
+
