@@ -42,6 +42,7 @@
 <p align="left">
   <a href="https://github.com/ThompsonShell">
     <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ThompsonShell&show_icons=true&theme=radical" />
+    https://github-readme-stats.vercel.app/api?username=ThompsonShell&show_icons=true&theme=dark
   </a>
 </p>
 
