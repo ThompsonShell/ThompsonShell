@@ -48,6 +48,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThompsonShell&langs_count=8&layout=compact&theme=vue-dark)](https://github.com/ThompsonShell)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ThompsonShell&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Thompson's streak" /></p>
+![Thompson's GitHub Stats](images/github-stats.png)
+
 
 
 ## Github Trophies
