@@ -1,6 +1,6 @@
 <body id="top">  
   
-### Hi, I'm Thompson ✨ :technologist: [![wakatime](https://wakatime.com/badge/user/60731bfe-5801-4003-b6ab-b7db12ed73d0.svg)](https://wakatime.com/@60731bfe-5801-4003-b6ab-b7db12ed73d0) [![github](https://img.shields.io/github/followers/ThompsonShell?logo=github&style=plastic)](https://github.com/ThompsonShell?tab=followers) [![twitter](https://img.shields.io/twitter/follow/@Backspa56553138?style=plastic&logo=twitter&labelColor=595959&color=595959)](https://x.com/Backspa56553138)
+### Hi, I'm Thompson ✨ :technologist: [![wakatime](https://wakatime.com/badge/user/3282f19a-b95b-4671-b31b-2561e0dd578b.svg)](https://wakatime.com/@60731bfe-5801-4003-b6ab-b7db12ed73d0) [![github](https://img.shields.io/github/followers/ThompsonShell?logo=github&style=plastic)](https://github.com/ThompsonShell?tab=followers) [![twitter](https://img.shields.io/twitter/follow/@Backspa56553138?style=plastic&logo=twitter&labelColor=595959&color=595959)](https://x.com/Backspa56553138)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=300&lines=A+Python+enthusiast;Aspiring+Backend+software+developer;Based+in+Uzbekistan+🇺🇿;Interested+in+Python%2C+ML%2C+NLP%2C+Web;Always+eager+to+learn+and+grow!)](https://git.io/typing-svg)
 
@@ -20,17 +20,9 @@
   <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS_EC2-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
@@ -56,24 +48,19 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=ThompsonShell&theme=algolia&column=5">
 
-## Wakatime Stats
-<p>
-  <img src="https://wakatime.com/@ThompsonShell" height="320" width="420">
-</p> 
 
 ## Wakatime 
 <p>
   <img src="https://wakatime.com/share/@60731bfe-5801-4003-b6ab-b7db12ed73d0/5e63070d-9aae-48e1-bff7-7f8cc4f78dd4.svg">
+  <img src="https://wakatime.com/badge/user/3282f19a-b95b-4671-b31b-2561e0dd578b.svg">
 </p>
 
 ### 📫 You can reach me here:  
 <a href="https://www.linkedin.com/in/backspace-thompsonshell-0a5b8733a/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/th_saturn_/profilecard/?igsh=aHQxbnAxMzFldzF1" target="_blank">
-  <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="mailto:muxsinmuxtorov01@gmail.com" target="_blank">
+
+<a href="mailto:asilbek.rajabov.official@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/mail-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://leetcode.com/u/ThompsonShelll/" target="_blank">
@@ -82,35 +69,52 @@
 <a href="https://x.com/Backspa56553138" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 </a>
-<a href="https://www.hackerrank.com/profile/muxsinmuxtorov01" target="_blank">
-  <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
-</a>
 
-- - - -   
 
-### 👋 More About Me
+# 👋 Hey, I'm Thompson Khorazmiy  
 
-- 👀 I'm deeply interested in Python, Machine Learning, NLP, Django Web Dev, and Data Science.
-- 🌱 I'm currently learning advanced Machine Learning techniques and working on LLM projects.
-- 🔥 I'm currently working on a secret startup...
-- 💞️ I'm looking to collaborate on cre2ating LLMs...
-- 🌍 I've traveled to: Valencia (Spain), Moscow, Rostov-on-Don, and Sochi (Russia).
-- 💻 You can schedule a one-to-one meeting with me here: [Calendly](https://calendly.com/muxsinmuxtorov/30-min-onboarding-call)
-- 😄 Pronouns: His/him
-- ⚡ Fun fact: If you have an exciting project in mind, reach out to me. I can be on the way with you to make it a reality!
+💡 _"Turning coffee into code, and ideas into reality."_  
+
+---
+
+### 🚀 About Me
+- 🐍 Passionate about **Python**, **Django**, **Backend Development**, and building things that just work.
+- 📦 Currently improving my **Django REST Framework** skills and developing personal backend tools.
+- 🛠 Love creating **automation scripts** to save time and avoid repetitive tasks.
+- 🤝 Open to collaborate on **Django-based platforms** or **API integrations**.
+- 📍 Based in Uzbekistan, exploring both **real cities** and **virtual worlds** through code.
+- 😄 Nickname: **Thompson Khorazmiy**
+- ☕ Fun fact: I can ship a working backend faster than you can brew a coffee.
+
+---
+
+### 📊 GitHub Stats
+![Thompson's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThompsonShell&show_icons=true&theme=tokyonight)  
+
+---
+
+### 🛠 Tech Stack  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+
+---
+
+### 📫 Connect with Me
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThompsonShell)  
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_TELEGRAM)  
+
+---
 
 ### 🛠 Tools I Use
 
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
