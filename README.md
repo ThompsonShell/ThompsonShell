@@ -1,41 +1,45 @@
-<!-- Top Contact Links -->
-<a href="mailto:asilbek.rajabov.official@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Mail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://leetcode.com/u/ThompsonShelll/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
-</a>
-<a href="https://x.com/Backspa56553138" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-</a>
+<!-- PROFILE HEADER -->
+<h1 align="center">Hey 👋, I'm Thompson Khorazmiy</h1>
+<h3 align="center">Turning coffee into code, and ideas into reality 🚀</h3>
+
+<!-- CONTACT BADGES -->
+<p align="center">
+  <a href="mailto:asilbek.rajabov.official@gmail.com">
+    <img src="https://img.shields.io/badge/Mail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/ThompsonShelll/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
+  </a>
+  <a href="https://x.com/Backspa56553138">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+</p>
 
 ---
 
-# 👋 Hey, I'm Thompson Khorazmiy  
-
-💡 _"Turning coffee into code, and ideas into reality."_  
-
----
-
-### 🚀 About Me
-- 🐍 Passionate about **Python**, **Django**, **Backend Development**, and building things that just work.
-- 📦 Currently improving my **Django REST Framework** skills and developing personal backend tools.
-- 🛠 Love creating **automation scripts** to save time and avoid repetitive tasks.
-- 🤝 Open to collaborate on **Django-based platforms** or **API integrations**.
-- 📍 Based in Uzbekistan — exploring real cities and endless worlds of code.
-- 😄 Nickname: **Thompson Khorazmiy**
-- ☕ Fun fact: I can ship a working backend faster than you can brew a coffee.
+## 🚀 About Me
+- 🐍 Passionate about **Python**, **Django**, and building things that just work.  
+- 📦 Currently mastering **Django REST Framework** and developing personal backend tools.  
+- 🛠 Creating **automation scripts** to save time & avoid repetitive work.  
+- 🤝 Open to collaborations on **Django platforms** & **API integrations**.  
+- 📍 Based in **Uzbekistan**, exploring real cities and endless worlds of code.  
+- ☕ Fun fact: I can ship a working backend faster than you can brew a coffee.  
+- ✈ Traveled to: Spain 🇪🇸, Russia 🇷🇺 (Moscow, Sochi, Rostov-on-Don).  
 
 ---
 
-### 📊 GitHub Stats
-![Thompson's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThompsonShell&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThompsonShell&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ThompsonShell&theme=tokyonight)  
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ThompsonShell&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThompsonShell&layout=compact&theme=tokyonight" height="165"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThompsonShell&theme=tokyonight" height="165"/>
+</p>
 
 ---
 
-### 🛠 Tech Stack  
+## 🛠 Tech Stack  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
@@ -44,9 +48,9 @@
 
 ---
 
-### 🛠 Tools I Use
-![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+## 🛠 Tools I Use
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=black)
@@ -54,7 +58,23 @@
 
 ---
 
-### 📫 Connect with Me
+## 📌 Featured Projects
+- [**Django REST API Starter**](https://github.com/ThompsonShell/django-rest-api) — A boilerplate for quick REST API development.  
+- [**Automation Toolkit**](https://github.com/ThompsonShell/automation-scripts) — Collection of Python scripts to automate daily tasks.  
+
+---
+
+## 📈 Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ThompsonShell&theme=tokyo-night)
+
+---
+
+## 🐍 Contribution Snake
+![Snake animation](https://github.com/ThompsonShell/ThompsonShell/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📫 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThompsonShell)  
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_TELEGRAM)  
 
