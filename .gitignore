@@ -1,0 +1,73 @@
+# Django/Python
+__pycache__/
+*.py[cod]
+*.so
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# Django environment
+.env
+*.env
+
+# Virtual environment
+venv/
+.env/
+*.venv/
+
+# IDE/editor files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Database files
+*.sqlite3
+*.db
+
+# Django static and media files
+staticfiles/
+media/
+
+# Migrations (optional, if you want to keep them in Git, remove this line)
+**/migrations/__pycache__/
+**/migrations/*.pyc
+**/migrations/*.pyo
+**/migrations/**
+!**/migrations
+!**/migrations/__init__.py
+
+# Logs
+logs/
+*.log
+local_settings.py
+
+# Celery
+celerybeat-schedule
+
+# pytest
+.cache/
+
+# Coverage
+htmlcov/
+.coverage
+.tox/
+.nox/
+
+# Docker
+*.pid
+dist/
+build/
+
+# MacOS/Linux system files
+.DS_Store
+*.swp
+*~
+
+# Node.js (if using frontend with React or Vue inside Django project)
+node_modules/
+package-lock.json
+yarn.lock
