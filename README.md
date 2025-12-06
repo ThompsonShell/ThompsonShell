@@ -2,7 +2,8 @@
 
 💡 _"Turning coffee into code, and ideas into reality."_  
 
----<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+# Tools
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
   <img src="https://skillicons.dev/icons?i=linux" height="50" />
   <img src="https://skillicons.dev/icons?i=python" height="50" />
@@ -22,7 +23,7 @@
 
 </div>
 
-# contact me
+# Contact me
 <a href="mailto:asilbek.rajabov.official@gmail.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=gmail" height="50" />
 </a>
