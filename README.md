@@ -15,48 +15,24 @@
 ---
 <p align="left">
 
-  <!-- Platform -->
   <img src="https://skillicons.dev/icons?i=linux" />
 
-  <!-- Backend -->
   <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://skillicons.dev/icons?i=django" />
-
-  <!-- DRF (custom) -->
-  <img width="30px" style="padding-right:10px;" 
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" 
+  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" 
        alt="DRF" />
-
-  <!-- WebSocket (custom) -->
-  <img width="30px" style="padding-right:10px;" 
-       src="https://cdn-icons-png.flaticon.com/512/919/919854.png" 
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919854.png" 
        alt="WebSocket" />
-
-  <!-- Elasticsearch -->
-  <img width="30px" style="padding-right:10px;" 
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" 
        alt="Elasticsearch" />
-
-  <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=postgres" />
-
-  <!-- Redis -->
-  <img width="30px" style="padding-right:10px;" 
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" 
        alt="Redis" />
-
-  <!-- DevOps -->
   <img src="https://skillicons.dev/icons?i=docker" />
   <img src="https://skillicons.dev/icons?i=nginx" />
-
-  <!-- API & Cloud -->
-  <img width="30px" style="padding-right:10px;" 
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" 
        alt="Swagger" />
-
   <img src="https://skillicons.dev/icons?i=firebase" />
-
-  <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=git" />
   <img src="https://skillicons.dev/icons?i=github" />
   <img src="https://skillicons.dev/icons?i=vscode" />
