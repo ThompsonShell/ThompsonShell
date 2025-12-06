@@ -21,8 +21,6 @@
   <img src="https://skillicons.dev/icons?i=django" />
   <img src="https://skillicons.dev/icons?i=html" />
   <img src="https://skillicons.dev/icons?i=css" />
-  <img src="https://skillicons.dev/icons?i=react" />
-  <img src="https://skillicons.dev/icons?i=nodejs" />
   <img src="https://skillicons.dev/icons?i=docker" />
 
   <!-- Other tools -->
@@ -30,12 +28,9 @@
   <img src="https://skillicons.dev/icons?i=github" />
   <img src="https://skillicons.dev/icons?i=postgres" />
   <img src="https://skillicons.dev/icons?i=sqlite" />
-  <img src="https://skillicons.dev/icons?i=mysql" />
   <img src="https://skillicons.dev/icons?i=vscode" />
   <img src="https://skillicons.dev/icons?i=pycharm" />
   <img src="https://skillicons.dev/icons?i=postman" />
-  <img src="https://skillicons.dev/icons?i=notion" />
-  <img src="https://skillicons.dev/icons?i=ps" />
 </p>
 
 ---
