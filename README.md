@@ -1,20 +1,19 @@
 <a href="mailto:asilbek.rajabov.official@gmail.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=gmail" height="50" />
 </a>
-<div style="display: flex; gap: 15px; justify-content: center; align-items: center; margin-top: 20px;">
-  <!-- GitHub -->
-  <a href="https://github.com/username" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" style="width:40px; height:40px; border-radius:8px; box-shadow:0 4px 6px rgba(0,0,0,0.1);" />
-  </a>
-  <!-- Telegram -->
-  <a href="https://t.me/username" target="_blank">
-    <img src="https://skillicons.dev/icons?i=telegram" style="width:40px; height:40px; border-radius:8px; box-shadow:0 4px 6px rgba(0,0,0,0.1);" />
-  </a>
-  <!-- LeetCode -->
-  <a href="https://leetcode.com/username" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" style="width:40px; height:40px; border-radius:8px; box-shadow:0 4px 6px rgba(0,0,0,0.1);" />
-  </a>
-</div>
+<!-- GitHub -->
+<a href="https://github.com/username" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" style="width:40px; height:40px; border-radius:8px; box-shadow:0 4px 6px rgba(0,0,0,0.1);" />
+</a>
+<!-- Telegram -->
+<a href="https://t.me/username" target="_blank">
+  <img src="https://skillicons.dev/icons?i=telegram" style="width:40px; height:40px; border-radius:8px; box-shadow:0 4px 6px rgba(0,0,0,0.1);" />
+</a>
+<!-- LeetCode -->
+<a href="https://leetcode.com/ThompsonShell" target="_blank">
+  <img src="https://skillicons.dev/icons?i=leet" alt="LeetCode" />
+</a>
+
 
 # I'm Thompson Khorazmiy  
 
