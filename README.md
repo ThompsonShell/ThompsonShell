@@ -2,9 +2,11 @@
   <img src="https://skillicons.dev/icons?i=gmail" height="50" />
 </a>
 <a href="https://leetcode.com/u/ThompsonShelll/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=LeetCode" height="50" />
+  <img src="https://skillicons.dev/icons?i=leetcode" height="50" />
 </a>
-
+<a href="https://telegram.com/u/ThompsonShelll/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=telegram" height="50" />
+</a>
 
 # I'm Thompson Khorazmiy  
 
