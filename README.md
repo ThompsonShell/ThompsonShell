@@ -1,5 +1,7 @@
 <a href="mailto:asilbek.rajabov.official@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/mail-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=gmail" height="50" />
+
 </a>
 <a href="https://leetcode.com/u/ThompsonShelll/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
