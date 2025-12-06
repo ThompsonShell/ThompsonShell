@@ -31,17 +31,11 @@
 </div>
 
 ### 📫 Connect with Me
-<<!-- Connect with Me -->
-<div style="display: flex; gap: 12px; justify-content: center; align-items: center; margin-top: 20px;">
-  
-  <!-- GitHub -->
-  <a href="https://github.com/username" target="_blank" style="display: flex; align-items: center; justify-content: center; width: 50px; height: 50px; background-color: #181717; border-radius: 8px;">
-    <img src="https://skillicons.dev/icons?i=github" style="width: 28px; height: 28px;" alt="GitHub" />
+<div style="display: flex; gap: 10px; align-items: center; justify-content: center; margin-top: 20px;">
+  <a href="https://github.com/ThompsonShell" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   </a>
-
-  <!-- Telegram -->
-  <a href="https://t.me/username" target="_blank" style="display: flex; align-items: center; justify-content: center; width: 50px; height: 50px; background-color: #26A5E4; border-radius: 8px;">
-    <img src="https://skillicons.dev/icons?i=telegram" style="width: 28px; height: 28px;" alt="Telegram" />
+  <a href="https://t.me/RajabovAsilbekk" target="_blank">
+    <img src="https://skillicons.dev/icons?i=telegram" alt="Telegram" />
   </a>
-
 </div>
