@@ -29,13 +29,3 @@
   <img src="https://skillicons.dev/icons?i=postman" height="50" />
 
 </div>
-
-### 📫 Connect with Me
-<div style="display: flex; gap: 10px; align-items: center; justify-content: center; margin-top: 20px;">
-  <a href="https://github.com/ThompsonShell" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-  </a>
-  <a href="https://t.me/RajabovAsilbekk" target="_blank">
-  <i class="fa-brands fa-telegram"></i>
-  </a>
-</div>
