@@ -36,8 +36,6 @@
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   </a>
   <a href="https://t.me/RajabovAsilbekk" target="_blank">
-  <a href="t.me">
-  <img src="https://path-to-your-icon/telegram-icon.png" alt="Telegram" width="32" height="32">
-</a>
+  <i class="fa-brands fa-telegram"></i>
   </a>
 </div>
