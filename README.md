@@ -13,37 +13,6 @@
 💡 _"Turning coffee into code, and ideas into reality."_  
 
 ---
-
-### 🚀 About Me
-- 🐍 Passionate about Python, Django, Backend Development, and building things that just work.
-- 📦 Currently improving my Django REST Framework skills and developing personal backend tools.
-- 🛠 Love creating automation scripts to save time and avoid repetitive tasks.
-- 🤝 Open to collaborate on Django-based platforms or API integrations.
-- 📍 Based in Uzbekistan, exploring both real cities and virtual worlds through code.
-- 😄 Nickname: Thompson Khorazmiy
-- ☕️ Fun fact: I can ship a working backend faster than you can brew a coffee.
-
----
-
-### 📊 GitHub Stats
-
-![Thompson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThompsonShell&show_icons=true&theme=tokyonight)  
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ThompsonShell&theme=tokyonight&hide_border=true)
-
-![Thompson's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ThompsonShell&theme=tokyo-night)
-
----
-
-### 🛠 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-
----
-
 ### 🛠 Tools I Use
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
