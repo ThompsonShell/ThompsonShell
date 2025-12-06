@@ -1,21 +1,4 @@
-<a href="mailto:asilbek.rajabov.official@gmail.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=gmail" height="50" />
-</a>
-<!-- GitHub -->
-<a href="https://github.com/username" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" style="width:40px; height:40px; border-radius:8px; box-shadow:0 4px 6px rgba(0,0,0,0.1);" />
-</a>
-<!-- Telegram -->
-<a href="https://t.me/username" target="_blank">
-  <img src="https://skillicons.dev/icons?i=telegram" style="width:40px; height:40px; border-radius:8px; box-shadow:0 4px 6px rgba(0,0,0,0.1);" />
-</a>
-<!-- LeetCode -->
-<a href="https://leetcode.com/ThompsonShell" target="_blank">
-  <img src="https://skillicons.dev/icons?i=leet" alt="LeetCode" />
-</a>
-
-
-# I'm Thompson Khorazmiy  
+# I'm Thompson   
 
 💡 _"Turning coffee into code, and ideas into reality."_  
 
@@ -38,3 +21,9 @@
   <img src="https://skillicons.dev/icons?i=postman" height="50" />
 
 </div>
+
+# contact me
+<a href="mailto:asilbek.rajabov.official@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" height="50" />
+</a>
+
