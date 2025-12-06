@@ -17,7 +17,6 @@
   <img src="https://skillicons.dev/icons?i=linux" height="50" />
   <img src="https://skillicons.dev/icons?i=python" height="50" />
   <img src="https://skillicons.dev/icons?i=django" height="50" />
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919854.png" height="50" alt="WebSocket" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="50" alt="Elasticsearch" />
   <img src="https://skillicons.dev/icons?i=postgres" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="50" alt="Redis" />
