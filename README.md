@@ -4,11 +4,9 @@
 <a href="https://leetcode.com/u/ThompsonShelll/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
 </a>
-<a href="https://x.com/Backspa56553138" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-</a>
 
-# 👋 Hey, I'm Thompson Khorazmiy  
+
+# I'm Thompson Khorazmiy  
 
 💡 _"Turning coffee into code, and ideas into reality."_  
 
@@ -34,5 +32,5 @@
 
 ### 📫 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThompsonShell)  
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ThompsonShell)  
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/RajabovAsilbekk)  
  
