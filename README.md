@@ -1,6 +1,6 @@
 # I'm Thompson   
 
-💡 _"Turning coffee into code, and ideas into reality."_  
+👾 _"Code killer."_  
 
 # Tools
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
