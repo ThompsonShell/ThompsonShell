@@ -27,4 +27,4 @@
 <a href="mailto:asilbek.rajabov.official@gmail.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=gmail" height="50" />
 </a>
-
+- 🔹 [Multi Shop](https://github.com/ThompsonShell/multi_shop) – Ecommerce project
